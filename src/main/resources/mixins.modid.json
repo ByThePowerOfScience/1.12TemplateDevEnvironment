@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "",
+  "compatibilityLevel": "JAVA_8",
+  "plugin": "",
+  "mixins": [
+    
+  ],
+  "client": [],
+  "injectors": {
+    "maxShiftBy": 10
+  }
+}
